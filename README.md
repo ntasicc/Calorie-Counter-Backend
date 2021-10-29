@@ -1,3 +1,4 @@
+# **Calorie Counter Backend**
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -23,6 +24,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+
+Server-side for Calorie Counter project. It provides CRUD operations for recipe entities. The project is incomplete because it started as a learning project.
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
